@@ -38,7 +38,7 @@ int GetFinishArrayLength(string[] inputArray, int lineLenght, int size)
 return count;
 }
 
-// заполняет массив текстом <=3
+// метод заполняет массив текстом <=3
 void FillFinishArray(string[] inputArray, int lineLenght, int size, string[] finishArray)
 {
     int indexFinish = 0;
